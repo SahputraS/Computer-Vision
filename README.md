@@ -4,3 +4,4 @@ This course covers the fundamentals of computer vision, including image filterin
 
 For the final group project, we aimed to optimize human detection by partially retraining layers of the YOLO (You Only Look Once) model (real-time object detection system) using two different datasets. 
 The project focused on fine-tuning the model to achieve the best performance in detecting objects accurately in both images and videos.
+
